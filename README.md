@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sathvika Jakkula</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on [InsightHub](https://github.com/sathvika-jakkula/major-code)
-- Check Out [https://sathvika-jakkula-portfolio.vercel.app/]
+- 🔭 Check Out [https://sathvika-jakkula-portfolio.vercel.app/]
 
 - 🤝 I’m looking for help with **with FullStack Projects, Frontend Development, Backend Development**
 
